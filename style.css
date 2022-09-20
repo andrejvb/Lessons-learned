@@ -19,4 +19,6 @@ body {
     width: 240px;  
 }
 
-#licoes_aprendidas {background-color: blueviolet;}
+#licoes_aprendidas, #licoes_a_aprender {
+    font-family: sans-serif;
+}
