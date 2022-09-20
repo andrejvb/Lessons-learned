@@ -15,10 +15,19 @@ body {
     text-align: center;
 }
 
-#minha_foto {margin-top: 50px;
+#minha_foto {
+    margin-top: 50px;
     width: 240px;  
 }
 
-#licoes_aprendidas, #licoes_a_aprender {
+#licoes_aprendidas {
     font-family: sans-serif;
+}
+
+#licoes_a_aprende{
+    font-family: sans-serif;
+}
+
+#rodape{    
+    margin:2px
 }
