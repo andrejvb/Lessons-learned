@@ -33,7 +33,9 @@ body {
 }
 
 #descricao {
-  margin: left 50%;
-  background-color: rgb(4, 241, 56);
-  border-radius: 4px;
-  display: inline-block; }
+    margin: left 50%;
+    background-color: rgb(4, 241, 56);
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
